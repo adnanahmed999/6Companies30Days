@@ -3,6 +3,8 @@
 // Its better to maintain an array of of size 10, O(10) constant operations will happen.
 // because though this solution will do work in O(log10), because of constant factor of priority queue, overall pq might be slower.
 
+// But here is a pq solution which is more generalized
+
 #include<bits/stdc++.h>
 using namespace std;
 
